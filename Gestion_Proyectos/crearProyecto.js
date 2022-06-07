@@ -154,7 +154,6 @@ function cargarInfoProyecto(){
 }
 
 function crearFase(){
-    alert("funcion");
     var http;
     http = new XMLHttpRequest();
 
