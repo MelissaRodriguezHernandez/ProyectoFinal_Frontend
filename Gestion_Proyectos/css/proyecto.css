@@ -184,7 +184,7 @@ html{
     .fase_drop {
         text-decoration: none;
         font-size: 0.5em;
-        color: #000000;
+        color: rgba(0, 0, 0, 0.74);
         background-color: rgba(65, 194, 234, 0.76);
         padding: 2% 2%;
         border-radius: 1em;
@@ -519,7 +519,7 @@ html{
     .fase_drop {
         text-decoration: none;
         font-size: 1em;
-        color:white;
+        color: rgba(0, 0, 0, 0.74);
         background-color: rgba(65, 194, 234, 0.76);
         padding: 2% 2%;
         border-radius: 1em;
